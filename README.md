@@ -1,4 +1,4 @@
-### Hi there! I'm Mikayla Peterson (she/her)
+### Hi there! I'm Mikayla Peterson (she/her)👋
 
 I'm a Software Systems Engineering student from Regina with an interest in desktop application development, UX, and mainframe technologies.
 
